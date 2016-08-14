@@ -29,6 +29,7 @@ Lines starting with `*` are automatically rendered as bullet points and phrases 
 * Shivam Tyagi [shivamT95](http://github.com/shivamT95)
 * Yashu Seth [yashu-seth](http://github.com/yashu-seth)
 * Yatna Verma [yatna](http://github.com/yatna)
+* Shiva Krishna [shivakrishna9](http://github.com/shivakrishna9)
 
 ### Other Resources
 
